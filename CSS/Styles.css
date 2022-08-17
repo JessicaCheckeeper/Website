@@ -1,0 +1,25 @@
+body {
+  background-color: #F8ECD1;
+  color: #85586F;
+  font-family: gilroy, sans-serif;
+}
+
+h1 {
+  color:#AC7D88;
+  font-family: gilroy, sans-serif;
+}
+
+h3 {
+  color: #AC7D88;
+  font-family: gilroy, sans-serif;
+}
+
+hr {
+ Background-color: #F8ECD1;
+ border-style: none;
+ border-top-style: dotted;
+ border-color: #DEB6AB;
+ border-radius: 0px;
+ border-width: 5px;
+
+}
